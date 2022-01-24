@@ -1,0 +1,14 @@
+{
+    "name": "Apil4A",
+    "description": "Api L4A",
+    "main": "index.js",
+    "scripts": {
+      "start": "npm install && node index.js"
+    },
+    "dependencies": {
+      "body-parser": "^1.19.1",
+      "express": "^4.17.2",
+      "jsdom": "^19.0.0"
+    }
+  }
+  
